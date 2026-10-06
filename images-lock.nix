@@ -1,8 +1,8 @@
 {
   x86_64-linux = {
     "docker.io/manifestdotbuild/manifest:latest" = {
-      ref = "docker.io/manifestdotbuild/manifest@sha256:146b9a2e9ff56978784ba1149c56eac4fc97090ecc0d76e696e8533d8d3a8cf4";
-      sha256 = "sha256-La33MK7QfSlXsAeu8Xkcnbhrionx17At0QHpk5kphAE=";
+      ref = "docker.io/manifestdotbuild/manifest@sha256:7bc1e7aadfebfea56d3495e998cee6aac824351fac2c6622858ecc1a9e936427";
+      sha256 = "sha256-MsiPSkZb/CKzufA0AmjWmyl1Cih/6/i7vp7LRQzpoOE=";
     };
     "docker.io/openspeedtest/latest:latest" = {
       ref = "docker.io/openspeedtest/latest@sha256:16f9e946eda48660e4503c87e3d4f609b9cbdb23849544ac00aa88fa22f74023";
@@ -33,8 +33,8 @@
       sha256 = "sha256-ySjXVHsXpfoPutyDUUnowNXgplcDNxFNAmCVC2TU+Kg=";
     };
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
-      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:2ee733a61580c4dbabf67dd0b5cd3769b9bba67f4a4e00b2416d974e5f70cc0d";
-      sha256 = "sha256-6PlLGFPGjOkm6KCx8WXPHuEUFPdjrbzgQFxY8ij99vo=";
+      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:c2fe5a33bfb56de7ab583a4e10b3b95e365aa13b56bbe7ff6caa4a05d7ca42e8";
+      sha256 = "sha256-vjBm25Xki2RNjgFbsBX2SnfgZMP4FSxZVIn4Pk0Kb+k=";
     };
   };
   aarch64-linux = {
@@ -59,8 +59,8 @@
       sha256 = "sha256-lyCFwmfyKJ4AWmSkf+C9biiV8yoCETaDlpmwQtvtJDg=";
     };
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
-      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:e09f2783e54e358861d96dcd01a18bac0bddfbe836d0c7d6b1e578bc7369a580";
-      sha256 = "sha256-UuIpBJBhG1vu2yBA8eA2jhCJa6gByeBNnu2TkAig8+A=";
+      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:713779ca659f903d1aff89d192af32d4f0b1b0ca44439ed5520f202881149945";
+      sha256 = "sha256-LIF8NJKxoSceFzOTUaOjpTpvak9c+k3945b620o/oz4=";
     };
     "ghcr.io/ignisda/ryot:v8" = {
       ref = "ghcr.io/ignisda/ryot@sha256:933aba89979b8d664ec68b97ff4ffafe898e146c72410e7032486342b5781128";
@@ -71,14 +71,14 @@
       sha256 = "sha256-7W/g7EMestqCjkq9fUFLBciZIv2yGMeMe38eCGLgP5w=";
     };
     "docker.io/manifestdotbuild/manifest:latest" = {
-      ref = "docker.io/manifestdotbuild/manifest@sha256:ab5f1c054cd7461636b37c82cd2638e74b82f198f4195c4bd25bc20548fcb6f4";
-      sha256 = "sha256-1W9NcO/ojRwpTcqIFP0A0lmg1f8fC4tFT7UcTBuL7wI=";
+      ref = "docker.io/manifestdotbuild/manifest@sha256:bf933d405539aceaa0d5664ed03527314902f39f2e938411d042b5f23bf4f22e";
+      sha256 = "sha256-Kc9HlHTlCjA/BkDLgxaB6tUwW8Su9Pm3KlrKIQLMxaA=";
     };
   };
   armv7l-linux = {
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
-      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:6229d3ba951d33dcd434feeac19ef7f61527ab896f70330cae853f95a85cb456";
-      sha256 = "sha256-hnF17E8DtFb5lryYOoEFq7h2VzhDWVlubgWBNvUVRJk=";
+      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:4dca88032cb155223c8623d83accb54d6dc56852306ef423b0148c47fe74ffd2";
+      sha256 = "sha256-Szv/A7EauYhZSEAtHrcVZz1GKxDG0eOWjwYttsTvb8E=";
     };
     "ghcr.io/toeverything/affine:stable" = {
       ref = "ghcr.io/toeverything/affine@sha256:558feb6d651ac5433a3c05d0c5459f3e5cbc659c1bc531598c6768163da630ff";
