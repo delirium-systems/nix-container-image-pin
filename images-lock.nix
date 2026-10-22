@@ -33,8 +33,8 @@
       sha256 = "sha256-6kinLUpaJzRvVXrMy4eVk8IKLAkxhTyxI90R9m2lwl8=";
     };
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
-      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:c2fe5a33bfb56de7ab583a4e10b3b95e365aa13b56bbe7ff6caa4a05d7ca42e8";
-      sha256 = "sha256-vjBm25Xki2RNjgFbsBX2SnfgZMP4FSxZVIn4Pk0Kb+k=";
+      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:b7546f88f56968e880d19f20c0bcb459f645847d07a5be2c6bc0264b48a8e99e";
+      sha256 = "sha256-1eXKaUTAsXXLL5z3+ttVbWnOCayicRsppFWrwuS9aGs=";
     };
   };
   aarch64-linux = {
@@ -59,8 +59,8 @@
       sha256 = "sha256-lyCFwmfyKJ4AWmSkf+C9biiV8yoCETaDlpmwQtvtJDg=";
     };
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
-      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:713779ca659f903d1aff89d192af32d4f0b1b0ca44439ed5520f202881149945";
-      sha256 = "sha256-LIF8NJKxoSceFzOTUaOjpTpvak9c+k3945b620o/oz4=";
+      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:ca61ef95c0474c7e52abe2b7d1fb5ec1f96570e8bb32dbaaf071043dab8853ee";
+      sha256 = "sha256-WtcUqWsDeu9gta8PFCHiGrlfEDB3PJqFedFSaIiHkE0=";
     };
     "ghcr.io/ignisda/ryot:v8" = {
       ref = "ghcr.io/ignisda/ryot@sha256:933aba89979b8d664ec68b97ff4ffafe898e146c72410e7032486342b5781128";
@@ -77,8 +77,8 @@
   };
   armv7l-linux = {
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
-      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:4dca88032cb155223c8623d83accb54d6dc56852306ef423b0148c47fe74ffd2";
-      sha256 = "sha256-Szv/A7EauYhZSEAtHrcVZz1GKxDG0eOWjwYttsTvb8E=";
+      ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:3499e5214047b11b9c409467a4d26cd925008863ada68cb6005cc5edcd5efcd8";
+      sha256 = "sha256-fsVZNbA9T1UsTy9CNTdW1tHQUFOxVgXhey45RVOtb84=";
     };
     "ghcr.io/toeverything/affine:stable" = {
       ref = "ghcr.io/toeverything/affine@sha256:558feb6d651ac5433a3c05d0c5459f3e5cbc659c1bc531598c6768163da630ff";
