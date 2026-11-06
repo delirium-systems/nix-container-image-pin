@@ -25,8 +25,8 @@
       sha256 = "sha256-WYiWis7JxD354GKNGF6txUDb7PVDKXTVy10PZ5A1OOk=";
     };
     "ghcr.io/thephaseless/byparr:latest" = {
-      ref = "ghcr.io/thephaseless/byparr@sha256:51a629fa3dcde0cee1a780922e1a572c4a5be0b5a0cb825db73d4e63059275ff";
-      sha256 = "sha256-1BXMKL3Uv66u041MjYSBBMbwLePeDpcLXrJihJSX/bE=";
+      ref = "ghcr.io/thephaseless/byparr@sha256:8170ab7b32d8df29b4b74f02707c503f5bd404c4f99d7e28972bef1595e59c66";
+      sha256 = "sha256-4KaEN8j980eA11EO8YGzM4ZHTRXxR+rR4CpO7cJLHtY=";
     };
     "ghcr.io/home-assistant/home-assistant:stable" = {
       ref = "ghcr.io/home-assistant/home-assistant@sha256:078222f9ea47cf47b172a301c2c45a1d2344b9d666827729b71fc3f7d7a57592";
@@ -67,8 +67,8 @@
       sha256 = "sha256-iLaMGjcyUNfDifeQnONY3hcKo/XoDl+GiM8cdSy9DIc=";
     };
     "ghcr.io/thephaseless/byparr:latest" = {
-      ref = "ghcr.io/thephaseless/byparr@sha256:deee7a375152218eadd4ee571ce2073e1a7cc2d320f3492947b1cd9d87c4f0d4";
-      sha256 = "sha256-7W/g7EMestqCjkq9fUFLBciZIv2yGMeMe38eCGLgP5w=";
+      ref = "ghcr.io/thephaseless/byparr@sha256:1d29d188fcfb72ba18e32d00035757a286c637d3aeec6ebee68b14e6a316345e";
+      sha256 = "sha256-qF/LER0GXTisLeKmzAp8QDD549XG+yecTl7l7dQuJ8s=";
     };
     "docker.io/manifestdotbuild/manifest:latest" = {
       ref = "docker.io/manifestdotbuild/manifest@sha256:778184ccc0ac4b012d7bd958ed141cbcc2e225f7f1967222eb9b058082ac3bdc";
