@@ -1,8 +1,8 @@
 {
   x86_64-linux = {
     "docker.io/manifestdotbuild/manifest:latest" = {
-      ref = "docker.io/manifestdotbuild/manifest@sha256:3cdc93553c393a9d3f1e369e6e9420bacefcc75b2c0278404843c49953960d0a";
-      sha256 = "sha256-iLtyYFE20qd7MBRJ+sJZH7N03kknpKdH4ThkmY+InOM=";
+      ref = "docker.io/manifestdotbuild/manifest@sha256:485b4493bde77b90d3e1b6e5fd8736713f6a3ab059dc7cc264622aef1714130e";
+      sha256 = "sha256-kNOIR5SqVnGcPb6lOUKsv4KbIkMNCN9LvwARPvyGPTA=";
     };
     "docker.io/openspeedtest/latest:latest" = {
       ref = "docker.io/openspeedtest/latest@sha256:97a83c2e001171d9230f2a8c27cf366f16a3ae69ebd8afd709b7a89849c7a20d";
@@ -13,8 +13,8 @@
       sha256 = "sha256-qNvc+Do6Di3RfJOjYZOIauizWW6PoazZRutG5MPGSqY=";
     };
     "docker.io/clusterzx/paperless-ai:latest" = {
-      ref = "docker.io/clusterzx/paperless-ai@sha256:ab80803f22f07eaf54070691858cb62e3558077b860dcf210a2c17121f03c73f";
-      sha256 = "sha256-Ucza8cTVVhmXLJlwk4lWaViYldFCTBfRdlPHXHYXuwA=";
+      ref = "docker.io/clusterzx/paperless-ai@sha256:004e67518b4ee0ce7df63fa9598bd4bed921aa1d707859272a88564a7a272e7e";
+      sha256 = "sha256-EBoj44x7gTru372FRnrLzgl6xIewvgNsRk4uk+riiLk=";
     };
     "ghcr.io/toeverything/affine:stable" = {
       ref = "ghcr.io/toeverything/affine@sha256:c312116a134184947d98749c8a8e29f4e3bc97f4f2a51c9a3497f9baea2eec2b";
@@ -29,8 +29,8 @@
       sha256 = "sha256-4KaEN8j980eA11EO8YGzM4ZHTRXxR+rR4CpO7cJLHtY=";
     };
     "ghcr.io/home-assistant/home-assistant:stable" = {
-      ref = "ghcr.io/home-assistant/home-assistant@sha256:1e25a28cb9ee48dbcd33b65cbdcf2919d01991fe11f71cdae0a09c9fc3017ebb";
-      sha256 = "sha256-7etfWVxEGnwy0FW1oWK1KZbE9V5BfsILVuAxo9EtEDY=";
+      ref = "ghcr.io/home-assistant/home-assistant@sha256:69193f00e76147a1649a910d39673680e37ce4362dfb410a328a806a824f2000";
+      sha256 = "sha256-EMjo27duvwBUT9xJRt/HTqQghmnCS65m+oJF0tsEehY=";
     };
     "ghcr.io/danielbrendel/hortusfox-web:latest" = {
       ref = "ghcr.io/danielbrendel/hortusfox-web@sha256:b7546f88f56968e880d19f20c0bcb459f645847d07a5be2c6bc0264b48a8e99e";
@@ -47,12 +47,12 @@
       sha256 = "sha256-IaAg4n8flb8f3t70j1rG2bveYoET3MBu3Kna85QiFfA=";
     };
     "docker.io/clusterzx/paperless-ai:latest" = {
-      ref = "docker.io/clusterzx/paperless-ai@sha256:a5179cccf83a0410426f27c9162d95a8c17d544be97a3f8899b41730ae7f75ea";
-      sha256 = "sha256-L4B+FI9DmpPBxY8j42GMeaS+vJ3Wq1V0CUnwnEQnH7k=";
+      ref = "docker.io/clusterzx/paperless-ai@sha256:eba77e174c283579aa792b61f2aa25ab970be5343dc5056ab91e2cef8127595c";
+      sha256 = "sha256-2PuPtHVKFYv3SK90T/YlzKgRyqqvNrlssqDPUwIC+e4=";
     };
     "ghcr.io/home-assistant/home-assistant:stable" = {
-      ref = "ghcr.io/home-assistant/home-assistant@sha256:9c7c84f9b6e7b7b6151b173ec8e492654530cec4b011c85a8f1a9864b16dbd28";
-      sha256 = "sha256-lEWts2LumWzgghYSeTh9juM0HOBeeNsYQAMCHlhH7HU=";
+      ref = "ghcr.io/home-assistant/home-assistant@sha256:5db329c3a474bc7c33da58548703b2c6404d6f0285fbd937c3e6417f08f7a778";
+      sha256 = "sha256-VdXC4qaYm1VjK9KGaB7fP7zGox7W7xiLd4XxGjzi0zU=";
     };
     "docker.io/openspeedtest/latest:latest" = {
       ref = "docker.io/openspeedtest/latest@sha256:de0f5f38ea19bd796a512163e47bf131acf139654ebbd89e17ce507c46ebb1a6";
@@ -71,8 +71,8 @@
       sha256 = "sha256-qF/LER0GXTisLeKmzAp8QDD549XG+yecTl7l7dQuJ8s=";
     };
     "docker.io/manifestdotbuild/manifest:latest" = {
-      ref = "docker.io/manifestdotbuild/manifest@sha256:3bc9a3d7c9d7e82249d194f06a271d3e623326d2c72d06343654041a071bbbf5";
-      sha256 = "sha256-j6OC4e6mAHyb/KcO+cspDfxDw8qhuf8magezUuUsmko=";
+      ref = "docker.io/manifestdotbuild/manifest@sha256:ace1a0201f94c0cc6ead23fe5d6c25790298cccbe09622e2f48ebedb1b622fb7";
+      sha256 = "sha256-rjMNFZRxwlcwG3/jf4yavRO+yM9GGtmQrDoU+g8MEEg=";
     };
   };
   armv7l-linux = {
